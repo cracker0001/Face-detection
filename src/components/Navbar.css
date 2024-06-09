@@ -1,0 +1,11 @@
+.navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+  }
+  
+  .face {
+    color: white;
+    font-size: 70px; /* Adjust the font size as needed */
+  }
+  
